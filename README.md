@@ -1,3 +1,19 @@
+
+![Captura de tela de 2025-01-12 16-50-13](https://github.com/user-attachments/assets/7cb99aec-c2e7-434b-b407-dfc5c5e75a7e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pokédex Project
 
 Este é um projeto de uma Pokédex interativa criada utilizando JavaScript e a API [PokeAPI](https://pokeapi.co/). O objetivo deste projeto é oferecer uma experiência simples e intuitiva para explorar informações sobre Pokémon, incluindo suas características, habilidades e tipos.
